@@ -97,3 +97,4 @@ What I use?
 - [Aeron](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html)
 - [headphone momentum](http://en-us.sennheiser.com/over-ear-headphone-momentum-stereo)
 - [Pencil](http://www.fiftythree.com/pencil)
+- [Leica M 240](http://www.kenrockwell.com/leica/m-240.htm)
