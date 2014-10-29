@@ -8,7 +8,7 @@ What I use?
 - Speaker: Logitech Speaker X530
 - Monitor: SHARP TV 46LE8300X
 
-## Device:
+## Devices:
 
 - iPad Air 
 - iPod Touch 4
@@ -17,7 +17,7 @@ What I use?
 
 
 
-## Software:
+## Softwares:
 
 - OSX
 - SublimeText
@@ -88,7 +88,7 @@ What I use?
 - YSlow
 
 
-## WishList
+## Wish List
 
 - [Microsoft Surface Pro 3]()
 - [Bambo Cooling Stand](http://www.macally.com/EN/?page_id=2333)
