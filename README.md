@@ -57,7 +57,7 @@ What I use?
 ## Online Services:
 
 - Dropbox
-- And.do
+- Any.do
 - WhatPlus
 - Rescue Time
 - Pocket
@@ -72,7 +72,7 @@ What I use?
 - Corporate Ispum
 - Eye Dropper
 - Dragdis
-- Any.Do
+- Any.do
 - Full Page Screen Capture
 - Envato Sales Notifications
 - Measure Dimensions
