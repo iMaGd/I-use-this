@@ -13,7 +13,8 @@ What I use?
 - iPad Air 
 - iPod Touch 4
 - Samsung Galaxy Note 3
-- Nikon DSLR D5300 + 18-140 LENS
+- Nikon DSLR D5300
+- LENS: Nikon 18-140mm f/3.5-5.6G ED AF-S DX VR
 
 
 
