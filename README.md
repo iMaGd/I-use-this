@@ -7,6 +7,8 @@ What I use?
 - External HDD: Western Digital My Book Essential 2TB
 - Speaker: Logitech Speaker X530
 - Monitor: SHARP TV 46LE8300X
+- Keyboard: Microsoft Arc
+- Mouse: Razor DeathAdder
 
 ## Devices:
 
