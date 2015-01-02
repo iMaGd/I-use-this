@@ -17,7 +17,7 @@ What I use?
 - Samsung Galaxy Note 3
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
-        Nikkor 50mm f/1.8G AF-S
+- LENS: Nikkor 50mm f/1.8G AF-S
 
 
 ## Softwares:
