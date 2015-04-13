@@ -53,6 +53,7 @@ What I use?
 - Camtasia
 - Vuze
 - Xcode
+- HipChat
 - Noizio
 
 
