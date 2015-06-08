@@ -3,17 +3,17 @@ What I use?
 
 ## Hardware:
 
-- Mac: [Mac Mini 2012](http://www.apple.com/mac-mini/)
+- Mac: Macbook Pro 15"
 - External HDD: Western Digital My Book Essential 2TB
 - Speaker: Logitech Speaker X530
 - Monitor: SHARP TV 46LE8300X
-- Keyboard: Microsoft Arc
+- Keyboard: Microsoft Ergonomic Sculpt Desktop
 - Mouse: Razor DeathAdder
 
 ## Devices:
 
 - iPad Air 
-- iPod Touch 4
+- iPod Touch 4/5
 - Samsung Galaxy Note 3
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
