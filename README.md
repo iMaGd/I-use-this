@@ -6,7 +6,7 @@ What I use?
 - Mac: Macbook Pro 15"
 - External HDD: Western Digital My Book Essential 2TB
 - Speaker: Logitech Speaker X530
-- Monitor: SHARP TV 46LE8300X
+- Monitor: LG 34UC97S + SHARP TV 46LE8300X
 - Keyboard: Microsoft Ergonomic Sculpt Desktop
 - Mouse: Razor DeathAdder
 
@@ -18,7 +18,7 @@ What I use?
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
 - LENS: Nikkor 50mm f/1.8G AF-S
-
+- Philips Hue Starter kit + Bloom 
 
 ## Softwares:
 
@@ -55,6 +55,7 @@ What I use?
 - Xcode
 - HipChat
 - Noizio
+- Day One
 
 
 ## Online Services:
@@ -94,7 +95,7 @@ What I use?
 
 ## Wish List
 
-- [Microsoft Surface Pro 3]()
+- [Microsoft Surface Pro 4]()
 - [Bambo Cooling Stand](http://www.macally.com/EN/?page_id=2333)
 - [Ona Bags](http://www.onabags.com/store/small-goods/the-roma.html)
 - [Aeron](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html)
