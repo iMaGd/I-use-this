@@ -18,7 +18,8 @@ What I use?
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
 - LENS: Nikkor 50mm f/1.8G AF-S
-- Philips Hue Starter kit + Bloom 
+- Philips Hue Starter kit + Bloom
+- Playstation 4 1216a
 
 ## Softwares:
 
