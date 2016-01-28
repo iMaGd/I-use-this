@@ -98,10 +98,7 @@ What I use?
 
 ## Wish List
 
-- [Microsoft Surface Pro 4]()
 - [Bambo Cooling Stand](http://www.macally.com/EN/?page_id=2333)
 - [Ona Bags](http://www.onabags.com/store/small-goods/the-roma.html)
 - [Aeron](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html)
-- [headphone momentum](http://en-us.sennheiser.com/over-ear-headphone-momentum-stereo)
 - [Pencil](http://www.fiftythree.com/pencil)
-- [Leica M 240](http://www.kenrockwell.com/leica/m-240.htm)
