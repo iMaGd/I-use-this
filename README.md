@@ -9,15 +9,17 @@ What I use?
 - Monitor: LG 34UC97S + SHARP TV 46LE8300X
 - Keyboard: Microsoft Ergonomic Sculpt Desktop
 - Mouse: Razor DeathAdder
+- Router: Asus RT-AC68P
 
 ## Devices:
 
 - iPad Air 
-- iPod Touch 4/5
+- iPod Touch 4
 - Samsung Galaxy Note 3
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
 - LENS: Nikkor 50mm f/1.8G AF-S
+- FitBit Charge
 - Philips Hue Starter kit + Bloom
 - Playstation 4 1216a
 
