@@ -4,12 +4,13 @@ What I use?
 ## Hardware:
 
 - Mac: Macbook Pro 15"
-- External HDD: Western Digital My Book Essential 2TB
-- Speaker: Logitech Speaker X530
 - Monitor: LG 34UC97S + SHARP TV 46LE8300X
 - Keyboard: Microsoft Ergonomic Sculpt Desktop
 - Mouse: Razor DeathAdder
 - Router: Asus RT-AC68P
+- Speaker: Logitech Speaker X530
+- External HDD: Western Digital My Book Essential 2TB
+- External HDD: Western Digital My Passport Ultra 2TB
 
 ## Devices:
 
@@ -22,6 +23,7 @@ What I use?
 - FitBit Charge
 - Philips Hue Starter kit + Bloom
 - Playstation 4 1216a
+- PlayStation Gold Wireless Stereo Headset
 
 ## Softwares:
 
