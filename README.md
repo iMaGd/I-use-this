@@ -24,6 +24,7 @@ What I use?
 - Philips Hue Starter kit + Bloom
 - Playstation 4 1216a
 - PlayStation Gold Wireless Stereo Headset
+- Amazon Echo Dot 2
 
 ## Softwares:
 
