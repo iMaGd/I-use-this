@@ -5,8 +5,14 @@ What I use?
 
 - Mac: Macbook Pro 15"
 - Monitor: LG 34UC97S + SHARP TV 46LE8300X
-- Keyboard: Microsoft Ergonomic Sculpt Desktop
-- Mouse: Razor DeathAdder
+- Keyboard: 
+  - Microsoft Arc Ergonomic Keyboard
+  - Microsoft Sculpt Ergonomic Desktop Keyboard (Jan 2016)
+  - Dell KB216 (Oct 2017)
+  - JETech Wireless Keyboard for Mac (Feb 2018)
+- Mouse: 
+  - Razor DeathAdder
+  - Microsoft Sculpt Ergonomic Mouse
 - Router: Asus RT-AC68P
 - Speaker: Logitech Speaker X530
 - External HDD: Western Digital My Book Essential 2TB
