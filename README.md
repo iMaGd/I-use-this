@@ -4,17 +4,22 @@ What I use?
 ## Hardware:
 
 - Mac: Macbook Pro 15"
-- Monitor: LG 34UC97S + SHARP TV 46LE8300X
+- Monitor: 
+  - LG 34UC97S
+  - LG 32UD59B
+  - SHARP TV 46LE8300X
 - Keyboard: 
-  - Microsoft Arc Ergonomic Keyboard
   - Microsoft Sculpt Ergonomic Desktop Keyboard (Jan 2016)
   - Dell KB216 (Oct 2017)
   - JETech Wireless Keyboard for Mac (Feb 2018)
+  - HUO RGB Mechanical Gaming Keyboard
+  - ~~Microsoft Arc Ergonomic Keyboard
 - Mouse: 
   - Razor DeathAdder
   - Microsoft Sculpt Ergonomic Mouse
 - Router: Asus RT-AC68P
 - Speaker: Logitech Speaker X530
+- Audio Interface: BEHRINGER U-PHORIA UMC22
 - External HDD: Western Digital My Book Essential 2TB
 - External HDD: Western Digital My Passport Ultra 2TB
 
@@ -22,7 +27,6 @@ What I use?
 
 - iPad Air 
 - iPod Touch 4
-- Samsung Galaxy Note 3
 - Nikon DSLR D5300
 - LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
 - LENS: Nikkor 50mm f/1.8G AF-S
@@ -31,11 +35,16 @@ What I use?
 - Playstation 4 1216a
 - PlayStation Gold Wireless Stereo Headset
 - Amazon Echo Dot 2
+- Kindle Paperwhite E-reader - White
+- GoPro Hero 7 Black
+- ~~Samsung Galaxy Note 3GoPro Hero 4 Black
+- ~~Samsung Galaxy Note 3
 
 ## Softwares:
 
 - OSX
 - SublimeText
+- VS Code
 - Photoshop
 - Lightroom
 - VLC
@@ -68,6 +77,7 @@ What I use?
 - HipChat
 - Noizio
 - Day One
+- Notion
 
 
 ## Online Services:
