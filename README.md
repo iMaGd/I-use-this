@@ -13,7 +13,7 @@ What I use?
   - Dell KB216 (Oct 2017)
   - JETech Wireless Keyboard for Mac (Feb 2018)
   - HUO RGB Mechanical Gaming Keyboard
-  -~~Microsoft Arc Ergonomic Keyboard~~
+  - ~~Microsoft Arc Ergonomic Keyboard~~
 - Mouse: 
   - Razor DeathAdder
   - Microsoft Sculpt Ergonomic Mouse
@@ -37,8 +37,8 @@ What I use?
 - Amazon Echo Dot 2
 - Kindle Paperwhite E-reader - White
 - GoPro Hero 7 Black
--~~GoPro Hero 4 Black~~
--~~Samsung Galaxy Note 3~~
+- ~~GoPro Hero 4 Black~~
+- ~~Samsung Galaxy Note 3~~
 
 ## Softwares:
 
