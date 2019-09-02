@@ -7,24 +7,31 @@ What I use?
 - Monitor: 
   - LG 34UC97S
   - LG 32UD59B
-  - SHARP TV 46LE8300X
+  - ~~SHARP TV 46LE8300X~~
 - Keyboard: 
+  - Apple Magic Keyboard
   - Microsoft Sculpt Ergonomic Desktop Keyboard (Jan 2016)
   - Dell KB216 (Oct 2017)
   - JETech Wireless Keyboard for Mac (Feb 2018)
-  - HUO RGB Mechanical Gaming Keyboard
+  - HUO RGB Mechanical Gaming Keyboard (Blue/Brown Switch)
   - ~~Microsoft Arc Ergonomic Keyboard~~
-- Mouse: 
+- Mouse:
+  - Logitech MxMaster 2S
   - Razor DeathAdder
   - Microsoft Sculpt Ergonomic Mouse
 - Router: Asus RT-AC68P
 - Speaker: Logitech Speaker X530
 - Audio Interface: BEHRINGER U-PHORIA UMC22
+- Mic: Champhox Lavalier Microphone
+- Webcam: Logitech C920S Pro HD
 - External HDD: Western Digital My Book Essential 2TB
 - External HDD: Western Digital My Passport Ultra 2TB
+- External SSD: SanDisk 500GB Extreme Portable SSD
+
 
 ## Devices:
 
+- iPad Pro 11
 - iPad Air 
 - iPod Touch 4
 - Nikon DSLR D5300
