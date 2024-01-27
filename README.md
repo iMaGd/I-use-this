@@ -3,22 +3,25 @@ What I use?
 
 ## Hardware:
 
-- Mac: Macbook Pro 15"
-- Monitor: 
-  - LG 34UC97S
+- Mac:
+  - Macbook Pro 16" M1 Max (2021)
+  - ~~Macbook Pro 15" i9 (late 2019)~~
+  - ~~Macbook Pro 15" i7 (mid 2014)~~
+- Monitor:
   - LG 32UD59B
+  - ~~LG 34UC97S~~
   - ~~SHARP TV 46LE8300X~~
-- Keyboard: 
+- Keyboard:
   - Apple Magic Keyboard
-  - Microsoft Sculpt Ergonomic Desktop Keyboard (Jan 2016)
-  - Dell KB216 (Oct 2017)
-  - JETech Wireless Keyboard for Mac (Feb 2018)
-  - HUO RGB Mechanical Gaming Keyboard (Blue/Brown Switch)
+  - ~~Microsoft Sculpt Ergonomic Desktop Keyboard (Jan 2016)~~
+  - ~~Dell KB216 (Oct 2017)~~
+  - ~~JETech Wireless Keyboard for Mac (Feb 2018)~~
+  - ~~HUO RGB Mechanical Gaming Keyboard (Blue/Brown Switch)~~
   - ~~Microsoft Arc Ergonomic Keyboard~~
 - Mouse:
   - Logitech MxMaster 2S
   - Razor DeathAdder
-  - Microsoft Sculpt Ergonomic Mouse
+  - ~~Microsoft Sculpt Ergonomic Mouse~~
 - Router: Asus RT-AC68P
 - Speaker: Logitech Speaker X530
 - Audio Interface: BEHRINGER U-PHORIA UMC22
@@ -32,14 +35,14 @@ What I use?
 ## Devices:
 
 - iPad Pro 11
-- iPad Air 
+- ~~iPad Air~~
 - iPod Touch 4
-- Nikon DSLR D5300
-- LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR
-- LENS: Nikkor 50mm f/1.8G AF-S
+- ~~Nikon DSLR D5300~~
+- ~~LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR~~
+- ~~LENS: Nikkor 50mm f/1.8G AF-S~~
 - Huawei Watch GT
 - ~~FitBit Charge~~
-- Philips Hue Starter kit + Bloom
+- ~~Philips Hue Starter kit + Bloom~~
 - Playstation 4 1216a
 - PlayStation Gold Wireless Stereo Headset
 - Amazon Echo Dot 2
@@ -72,7 +75,7 @@ What I use?
 - Mr.Reader
 - iBooks
 - MarkDown
-- f.lux 
+- f.lux
 - Frank Deloupe
 - Moom
 - TeamViewer
