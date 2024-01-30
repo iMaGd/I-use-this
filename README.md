@@ -23,7 +23,7 @@ What I use?
   - Razor DeathAdder
   - ~~Microsoft Sculpt Ergonomic Mouse~~
 - Router: Asus RT-AC68P
-- Speaker: Logitech Speaker X530
+- ~~Speaker: Logitech Speaker X530~~
 - Audio Interface: BEHRINGER U-PHORIA UMC22
 - Mic: Champhox Lavalier Microphone
 - Webcam: Logitech C920S Pro HD
@@ -45,8 +45,8 @@ What I use?
 - ~~Philips Hue Starter kit + Bloom~~
 - Playstation 4 1216a
 - PlayStation Gold Wireless Stereo Headset
-- Amazon Echo Dot 2
-- Kindle Paperwhite E-reader - White
+- ~~Amazon Echo Dot 2~~
+- ~~Kindle Paperwhite E-reader - White~~
 - GoPro Hero 7 Black
 - ~~GoPro Hero 4 Black~~
 - ~~Samsung Galaxy Note 3~~
@@ -54,50 +54,47 @@ What I use?
 ## Softwares:
 
 - OSX
-- SublimeText
-- VS Code
-- Photoshop
-- Lightroom
-- VLC
-- Transmit
-- Airmail
+- PhpStorm
+- VS Code ~~SublimeText~~
+- Beekeeper Studio
+- Discord
+- Postman
+- Telegram
+- Cyberduck ~~Transmit~~
+- Spark ~~Airmail~~
 - Chrome
 - Firefox
-- MAMP PRO
-- TextWrangler
+- Brave
+- Herd ~~MAMP PRO~~
+- ~~TextWrangler~~
 - MS OneNote
-- MS Office 2011
 - Skype
 - MonoSnap
 - Alfred
-- iTerm 2
+- Warp ~~iTerm 2~~
 - Pocket
-- Mr.Reader
-- iBooks
+- ~~Mr.Reader~~
 - MarkDown
-- f.lux
+- ~~f.lux~~
 - Frank Deloupe
 - Moom
 - TeamViewer
-- Speed Download
-- KeePassX
-- Adium
-- Camtasia
-- Vuze
-- Xcode
-- HipChat
+- Axel ~~Speed Download~~
+- MacPass ~~KeePassX~~
+- ~~Xcode~~
+- ~~HipChat~~
 - Noizio
-- Day One
-- Notion
+- Notion ~~Evernote~~
+- Lightroom
 
 
 ## Online Services:
 
 - Dropbox
-- Any.do
-- WhatPlus
-- Rescue Time
+- Miscrosoft To Do ~~Any.do~~
 - Pocket
+- ~~WhatPlus~~
+- ~~Rescue Time~~
 - Moovia
 
 
