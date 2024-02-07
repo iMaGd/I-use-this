@@ -7,6 +7,7 @@ What I use?
   - Macbook Pro 16" M1 Max (2021)
   - ~~Macbook Pro 15" i9 (late 2019)~~
   - ~~Macbook Pro 15" i7 (mid 2014)~~
+  - Set up your Mac using [My Dotfiles](https://github.com/iMaGd/dotfiles)
 - Monitor:
   - LG 32UD59B
   - ~~LG 34UC97S~~
@@ -20,8 +21,8 @@ What I use?
   - ~~Microsoft Arc Ergonomic Keyboard~~
 - Mouse:
   - Logitech MxMaster 2S
-  - Razor DeathAdder
   - ~~Microsoft Sculpt Ergonomic Mouse~~
+  - ~~Razor DeathAdder~~
 - Router: Asus RT-AC68P
 - ~~Speaker: Logitech Speaker X530~~
 - Audio Interface: BEHRINGER U-PHORIA UMC22
@@ -44,7 +45,7 @@ What I use?
 - ~~FitBit Charge~~
 - ~~Philips Hue Starter kit + Bloom~~
 - Playstation 4 1216a
-- PlayStation Gold Wireless Stereo Headset
+- ~~PlayStation Gold Wireless Stereo Headset~~
 - ~~Amazon Echo Dot 2~~
 - ~~Kindle Paperwhite E-reader - White~~
 - GoPro Hero 7 Black
@@ -58,6 +59,7 @@ What I use?
 - VS Code ~~SublimeText~~
 - Beekeeper Studio
 - Discord
+- Slack
 - Postman
 - Telegram
 - Cyberduck ~~Transmit~~
@@ -66,6 +68,7 @@ What I use?
 - Firefox
 - Brave
 - Herd ~~MAMP PRO~~
+- Docker
 - ~~TextWrangler~~
 - MS OneNote
 - Skype
@@ -95,7 +98,7 @@ What I use?
 - Pocket
 - ~~WhatPlus~~
 - ~~Rescue Time~~
-- Moovia
+- ~~Moovia~~
 
 
 ## Chrome Extensions
@@ -105,7 +108,7 @@ What I use?
 - Resize Window
 - Corporate Ispum
 - Eye Dropper
-- Dragdis
+- ~~Dragdis~~
 - Any.do
 - Full Page Screen Capture
 - Envato Sales Notifications
@@ -125,7 +128,6 @@ What I use?
 
 ## Wish List
 
-- [Bambo Cooling Stand](http://www.macally.com/EN/?page_id=2333)
-- [Ona Bags](http://www.onabags.com/store/small-goods/the-roma.html)
+- ~~[Ona Bags](http://www.onabags.com/store/small-goods/the-roma.html)~~
 - [Aeron](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html)
 - [Pencil](http://www.fiftythree.com/pencil)
