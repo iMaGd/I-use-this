@@ -26,7 +26,11 @@ What I use?
 - Router: Asus RT-AC68P
 - ~~Speaker: Logitech Speaker X530~~
 - Audio Interface: BEHRINGER U-PHORIA UMC22
-- Mic: Champhox Lavalier Microphone
+- Mic:
+  - Rode NT-USB+
+  - ~~Shure MV6~~
+  - ~~Audio-Technica ATR2100X~~
+  - ~~Champhox Lavalier Microphone~~
 - Webcam: Logitech C920S Pro HD
 - External HDD: Western Digital My Book Essential 2TB
 - External HDD: Western Digital My Passport Ultra 2TB
