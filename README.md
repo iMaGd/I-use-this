@@ -62,17 +62,18 @@ What I use?
 - PhpStorm
 - VS Code ~~SublimeText~~
 - Beekeeper Studio
+- Jira
 - Discord
 - Slack
 - Postman
 - Telegram
+- Confluence
 - Cyberduck ~~Transmit~~
 - Spark ~~Airmail~~
 - Chrome
 - Firefox
 - Brave
 - Herd ~~MAMP PRO~~
-- Docker
 - ~~TextWrangler~~
 - MS OneNote
 - Skype
@@ -94,6 +95,19 @@ What I use?
 - Notion ~~Evernote~~
 - Lightroom
 
+## Tools:
+
+- Docker
+- AWS CLI
+- Terraform
+- Ansible
+- Kubernetes
+- CloudFormation/CDK
+- GitLab CI/CD
+- Jenkins
+- Prometheus
+- Grafana
+- Elasticsearch
 
 ## Online Services:
 
