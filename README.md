@@ -20,7 +20,8 @@ What I use?
   - ~~HUO RGB Mechanical Gaming Keyboard (Blue/Brown Switch)~~
   - ~~Microsoft Arc Ergonomic Keyboard~~
 - Mouse:
-  - Logitech MxMaster 2S
+  - Logitech MxMaster 3S 
+  - ~~Logitech MxMaster 2S~~
   - ~~Microsoft Sculpt Ergonomic Mouse~~
   - ~~Razor DeathAdder~~
 - Router: Asus RT-AC68P
