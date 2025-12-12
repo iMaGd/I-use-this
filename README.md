@@ -24,6 +24,9 @@ What I use?
   - ~~Logitech MxMaster 2S~~
   - ~~Microsoft Sculpt Ergonomic Mouse~~
   - ~~Razor DeathAdder~~
+- Desk:
+  - FlexiSpot E5 
+- Earbuds: Bose QuietComfort Ultra Gen2 (earbuds)
 - Router: Asus RT-AC68P
 - ~~Speaker: Logitech Speaker X530~~
 - Audio Interface: BEHRINGER U-PHORIA UMC22
@@ -43,17 +46,17 @@ What I use?
 - iPad Pro 11
 - ~~iPad Air~~
 - iPod Touch 4
+- GoPro Hero 7 Black
 - ~~Nikon DSLR D5300~~
 - ~~LENS: Nikkor 18-140mm f/3.5-5.6G ED AF-S DX VR~~
 - ~~LENS: Nikkor 50mm f/1.8G AF-S~~
 - Huawei Watch GT
 - ~~FitBit Charge~~
 - ~~Philips Hue Starter kit + Bloom~~
-- Playstation 4 1216a
+- ~~Playstation 4 1216a~~
 - ~~PlayStation Gold Wireless Stereo Headset~~
 - ~~Amazon Echo Dot 2~~
 - ~~Kindle Paperwhite E-reader - White~~
-- GoPro Hero 7 Black
 - ~~GoPro Hero 4 Black~~
 - ~~Samsung Galaxy Note 3~~
 
